@@ -1,0 +1,37 @@
+html{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+body{
+	background-color: wheat;
+}
+img{
+	height: 200px;
+	width: 200px;
+	border-radius: 100%;
+	margin-bottom: -120px;
+	display: inline-block;
+	border: 4px dashed black;
+}
+
+
+main{
+	border: 4px dashed black;
+	width: 600px;
+	padding: 20px;
+	height: 300px;
+	margin: 10px;
+	background-color: orange;
+	margin: 40px auto;
+}
+
+main>h1{
+	margin-top: 70px;
+	color: green;
+}
+main>h4{
+	margin-top: 99px;
+}
+

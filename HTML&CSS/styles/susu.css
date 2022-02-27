@@ -1,0 +1,59 @@
+header{
+	margin-bottom: 70px;
+}
+
+h1{
+	font-size: 70px;
+	color: rgb(71,62,62);
+	margin: 12px 0;
+
+}
+
+
+
+a{
+	padding: 15px 48px;
+	background-color: rgb(167,1,78);
+color: white;
+border: 2px dashed blue;
+border-radius: 5px;
+font-size: 24px;
+
+}
+
+
+
+
+a:hover{
+	text-decoration: none;
+background-color: rgb(180,12,90);
+
+}
+
+
+
+
+ol{
+	list-style: none;
+	width: 500px;
+	margin: 40px auto 0 auto;
+	padding: 0;
+
+}
+
+li{
+	padding: 20px;
+	margin: 32px;
+	background-color: rgb(223,136,124);
+	border-radius: 6px;
+	box-shadow: 10px 10px 4px black;
+}
+
+
+h2{
+	color: rgb(78,13,5);
+	font-family: 'Oswald',sans-serif;
+}
+.coco{
+	background-color: rgb(224,224,111);
+}

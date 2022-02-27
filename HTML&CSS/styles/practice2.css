@@ -1,0 +1,44 @@
+html{
+	font-family: 'Shizuru', cursive;
+	
+	text-align:center;
+	}
+
+body{
+	background-color:cyan;
+}
+h1{
+	color: darkolivegreen;
+}
+img{
+	height:300px;
+	width:300px;
+	margin-bottom:-50px;
+	border:4px dashed black;
+	border-radius:23px;
+}
+
+main{
+	background-color:grey;
+	padding:24px;
+	margin:20px auto;
+	width:700px;
+	border:4px dashed black;
+	border-radius: 30px;
+	box-shadow: 9px 3px 2px black;
+}
+
+#meong{
+	margin-top:50px ;
+}
+
+a{
+	text-decoration: none;
+	color: darkolivegreen;
+	padding: 10px;
+}
+a:hover{
+	
+	background-color: darkgoldenrod;
+	
+}

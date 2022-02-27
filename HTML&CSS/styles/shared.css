@@ -1,0 +1,33 @@
+body{
+	text-align: center;
+	background-color: darkgoldenrod;
+	color: rgb(83,75,75);
+	/*margin:  5px  auto;*/
+}
+img{
+	height: 500px;
+	width: 500px;
+	border-radius: 100%;
+
+}
+
+h1,h4{
+
+	
+
+	
+	font-family: 'Oswald', sans-serif;
+}
+p{
+	font-family:'Fira Sans';
+	margin-bottom: 28px;
+	
+	
+}
+a{
+	color: rgb(167,1,78);
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+}
